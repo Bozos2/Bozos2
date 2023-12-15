@@ -10,11 +10,11 @@
 
 <div align="center">
 
-- 👋 Hi, I’m Bozo
-- 👀 I’m interested in **Full Stack Web Development** and **Mobile Development**
-- 🌱 I’m currently learning **Node.js** and **MySQL**
-- 🔭 I’m currently working on **a marketplace**
-- 🤝  I'm open to collaborating on **Frontend Web Applications**
+👋 Hi, I’m Bozo
+👀 I’m interested in **Full Stack Web Development** and **Mobile Development**
+🌱 I’m currently learning **Node.js** and **MySQL**
+🔭 I’m currently working on **a marketplace**
+🤝  I'm open to collaborating on **Frontend Web Applications**
 
   </div>
 
