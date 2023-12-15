@@ -11,9 +11,13 @@
 <div align="center">
 
 👋 Hi, I’m Bozo
+
 👀 I’m interested in **Full Stack Web Development** and **Mobile Development**
+
 🌱 I’m currently learning **Node.js** and **MySQL**
+
 🔭 I’m currently working on **a marketplace**
+
 🤝  I'm open to collaborating on **Frontend Web Applications**
 
   </div>
@@ -36,9 +40,10 @@
 
 ### Stats
 
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Bozos2.vercel.app/?user=Bozos2&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Bozos2.vercel.app/api?username=Bozos2&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.vercel.app/?user=Bozos2&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Bozos2&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Bozos2.vercel.app/api/top-langs/?username=Bozos2&langs_count=4&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bozos2&langs_count=4&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
