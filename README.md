@@ -40,9 +40,10 @@
 
 ### Stats
 
-
-    
-  <img width="340" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bozos2&langs_count=2&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-<img width="400" src="https://github-readme-streak-stats-zeta-gilt.vercel.app?user=Bozos2&theme=dark&border_radius=10&card_width=400" alt="streak stats" style="position: absolute; left: 340px; top: 0;" />
+ <div style="display: flex; justify-content: center;">
+      <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bozos2&langs_count=2&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+      <img width="400" src="https://github-readme-streak-stats-zeta-gilt.vercel.app?user=Bozos2&theme=dark&border_radius=10&card_width=400" alt="streak stats" />
+ </div>
+ 
   
 
