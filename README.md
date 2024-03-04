@@ -16,7 +16,7 @@
 
 🌱 I’m currently learning **Node.js** and **MySQL**
 
-🔭 I’m currently working on **a marketplace**
+🔭 I’m currently working on **a tourist web application**
 
 🤝  I'm open to collaborating on **Frontend Web Applications**
 
