@@ -1,24 +1,15 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Bozos2.Bozos2" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
-</h1>
-
-<h3 align="center">I'm a Frontend Web Developer.</h3>
+<h3 align="center">I'm a Fullstack Web Developer.</h3>
 
 <br/>
 
 <div align="center">
 
-👋 Hi, I’m Bozo
-
 👀 I’m interested in **Full Stack Web Development** and **Mobile Development**
 
-🌱 I’m currently learning **Node.js** and **MySQL**
+🌱 I’m currently learning **Golang** and **MySQL**
 
-🔭 I’m currently working on **a tourist web application**
-
-🤝  I'm open to collaborating on **Frontend Web Applications**
+🤝  I'm open to collaborating on **Frontend and Backend Web Applications**
 
   </div>
 
