@@ -29,17 +29,14 @@
 <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript&logoColor=white&color=2F74C0" alt="typescript" />
 <img src="https://img.shields.io/badge/Javascript-Black?style=for-the-badge&logo=javascript&logoColor=white&color=%23c2af08" alt="javascript" />
 <img src="https://img.shields.io/badge/Go-Black?style=for-the-badge&logo=go&logoColor=white&color=08AFD8" alt="go" />
-<img src="https://img.shields.io/badge/Language-Black?style=for-the-badge&logo=C&logoColor=white&color=%2300589D
-" alt="C" />
+<img src="https://img.shields.io/badge/Language-Black?style=for-the-badge&logo=C&logoColor=white&color=%2300589D" alt="C" />
 
 <h3>Framework & Libaries:</h3>
 <img src="https://img.shields.io/badge/React-Black?style=for-the-badge&logo=react&logoColor=white&color=1082A7" alt="react" />
 <img src="https://img.shields.io/badge/-Next.Js-black?style=for-the-badge&logo=nextdotjs&logoColor=white&color=000000" alt="nextjs" />
 <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white&color=38BDF8" alt="tailwind" />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-" alt="nodejs" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" />
-</div>
 
 <h3>Databases:</h3>
 <img src="https://img.shields.io/badge/MongoDB-Black?style=for-the-badge&logo=mongodb&logoColor=white&color=4FAA41" alt="mongodb" />
@@ -52,8 +49,8 @@
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" />
-<img src="https://img.shields.io/badge/Drizzle%20ORM-Black?style=for-the-badge&logo=expressdotjs&logoColor=white&color=111111
-" alt="drizzleorm" />
+<img src="https://img.shields.io/badge/Drizzle%20ORM-Black?style=for-the-badge&logo=expressdotjs&logoColor=white&color=111111" alt="drizzleorm" />
+</div>
 
 ## Stats
 
