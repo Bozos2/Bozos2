@@ -6,7 +6,7 @@
 
 👀 I’m interested in **Full Stack Web Development** and **Mobile Development**
 
-🌱 I’m currently learning **Golang** and **MySQL**
+🌱 I’m currently learning **Go** and **MySQL**
 
 🤝  I'm open to collaborating on **Frontend and Backend Web Applications**
 
@@ -49,6 +49,7 @@
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" />
+<img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="reactquery">
 <img src="https://img.shields.io/badge/Drizzle%20ORM-Black?style=for-the-badge&logo=expressdotjs&logoColor=white&color=111111" alt="drizzleorm" />
 </div>
 
