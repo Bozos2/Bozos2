@@ -34,6 +34,7 @@
 <h3>Framework & Libaries:</h3>
 <img src="https://img.shields.io/badge/React-Black?style=for-the-badge&logo=react&logoColor=white&color=1082A7" alt="react" />
 <img src="https://img.shields.io/badge/-Next.Js-black?style=for-the-badge&logo=nextdotjs&logoColor=white&color=000000" alt="nextjs" />
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
 <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white&color=38BDF8" alt="tailwind" />
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" />
